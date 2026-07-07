@@ -14,7 +14,8 @@ algorithm (adapted and improved from open-source research) to evaluate all possi
 placements and select the most optimal move based on survival and scoring heuristics.
 
 
-https://github.com/user-attachments/assets/51ac0e64-b9b7-44b7-ba9c-15735b4ac969
+https://github.com/user-attachments/assets/08b00fed-a4a2-41ce-b8e6-76b652ea1f75
+
 
 
 
