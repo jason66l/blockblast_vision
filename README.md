@@ -13,14 +13,14 @@ Once the board and pieces are converted into matrices, the system applies an opt
 algorithm (adapted and improved from open-source research) to evaluate all possible
 placements and select the most optimal move based on survival and scoring heuristics.
 
-
 <table>
   <tr>
-    <td>
-      <video src="[https://github.com](https://github.com](https://github.com/user-attachments/assets/291ac141-05bf-4b31-97ee-ebb119498d5a)" width="1000" controls></video>
+    <td width="60%">
+     [https://github.com](https://github.com](https://github.com/user-attachments/assets/291ac141-05bf-4b31-97ee-ebb119498d5a
     </td>
-    <td>
-       <video src="[https://github.com](https://github.com/user-attachments/assets/664e03db-c1d8-42e2-87d0-6c9ed0602b08)" width="1000" controls></video>
+    <td width="60%">
+      [https://github.com](https://github.com](https://github.com/user-attachments/assets/664e03db-c1d8-42e2-87d0-6c9ed0602b08)
     </td>
   </tr>
 </table>
+
