@@ -16,10 +16,10 @@ placements and select the most optimal move based on survival and scoring heuris
 <table>
   <tr>
     <td width="60%">
-     [https://github.com](https://github.com](https://github.com/user-attachments/assets/291ac141-05bf-4b31-97ee-ebb119498d5a
+     https://github.com](https://github.com/user-attachments/assets/291ac141-05bf-4b31-97ee-ebb119498d5a
     </td>
     <td width="60%">
-      [https://github.com](https://github.com](https://github.com/user-attachments/assets/664e03db-c1d8-42e2-87d0-6c9ed0602b08)
+     https://github.com](https://github.com/user-attachments/assets/664e03db-c1d8-42e2-87d0-6c9ed0602b08
     </td>
   </tr>
 </table>
