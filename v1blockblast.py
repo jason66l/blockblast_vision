@@ -6,7 +6,6 @@ import math
 from collections import deque
 
 # ============================================================
-# WORKING SCRIPT (single file) ✅
 # - Bank piece detection: HSV Saturation+Value + sanity checks
 # - Shows NEXT_MOVE overlay (one move at a time)
 # - Shows BANK_SLOT_0/1/2 windows with detected piece matrix + drawing
