@@ -1,5 +1,7 @@
 # Block Blast Solver
 
+**Live demo:** [blockblast-solver.onrender.com](https://blockblast-solver.onrender.com/) (hosted on a free tier, so the first load may take ~30s to wake up)
+
 Upload (or paste) a Block Blast screenshot and get the best way to place all three pieces, shown move by move. Anything the image reader gets wrong can be fixed by clicking cells, and the plan re-solves instantly. You can also skip the screenshot and set up a board by hand.
 
 **Stack:** React + TypeScript (Vite) front end · FastAPI back end · OpenCV + NumPy for screenshot reading · bitboard search in pure Python.
