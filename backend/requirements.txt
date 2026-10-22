@@ -1,0 +1,5 @@
+fastapi==0.159.1
+uvicorn[standard]
+python-multipart
+opencv-python-headless
+numpy
